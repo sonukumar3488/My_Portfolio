@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Full Stack Java Developer - Training",
+    "organisation": "Q Spider , Delhi",
+    "startDate": "Feb, 2024",
+    "endDate": "Present",
+    "location": "New Delhi",
+    "experiences": [
+      "Worked on Front-end Development",
+      "Worked on Back-end Development"
+    ],
+    "imageSrc": "company/image.png"
+  },
+  {
+    "id": 2,
+    "role": "Web Development - Intern",
+    "organisation": "Durga Tech , Erode ",
+    "startDate": "Oct-2023",
+    "endDate": "to Dec-2023",
+    "location": "Erode, Tamil Nadu",
+    "experiences": [
+      "Good knowledge in Web Developement",
+      "Worked on 30+ Front-end Project"
+    ],
+    "imageSrc": "company/image1.png"
+  }
+]

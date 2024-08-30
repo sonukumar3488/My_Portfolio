@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "React E-Commerce",
+    "imageSrc": "https://i.postimg.cc/02QbHw5f/Screenshot-2024-08-30-004102.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://e-commerce-app-by-sonukumar.vercel.app/",
+    "source": "https://github.com/sonukumar3488/E-commerce_App"
+  },
+  {
+    "key": 2,
+    "title": "Online QR Coder Generator",
+    "imageSrc": "https://i.postimg.cc/RCcsYkYG/Screenshot-2024-08-30-003104.png",
+    "description": "React js Peoject, Users can quickly generate online QR codes  ",
+    "demo": "https://online-qr-code-generator-by-sonu-kumar.vercel.app/",
+    "source": "https://github.com/sonukumar3488/Online_QR_Code_Generator"
+  },
+  {
+    "key": 3,
+    "title": "Online Quiz App",
+    "imageSrc": "https://i.postimg.cc/LXpMLz7V/project1.png",
+    "description": "Developed an interactive online quiz application using HTML, CSS, and JavaScript",
+    "demo": "https://online-quiz-app-gold.vercel.app/",
+    "source": "https://github.com/sonukumar3488/online-quiz-app"
+  }
+]
